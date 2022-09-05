@@ -1,3 +1,3 @@
-# Triangle Quiz Web App for MARK12 
+# do you know triangles?
 
-Project URL : here
+Project URL : https://chic-cassata-c96fe2.netlify.app/
